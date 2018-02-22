@@ -1,0 +1,46 @@
+{
+  "name": "gift",
+  "plural": "gifts",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "type": {
+      "type": "string",
+      "required": true
+    },
+    "status": {
+      "type": "string"
+    },
+    "blockedby": {
+      "type": "string"
+    },
+    "blockedbycontact": {
+      "type": "string"
+    },
+    "blockedon": {
+      "type": "string"
+    },
+    "createdon": {
+      "type": "date",
+      "required": true
+    },
+    "createdby": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
