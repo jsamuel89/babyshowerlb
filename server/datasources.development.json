@@ -1,0 +1,16 @@
+{
+  "localstorage": {
+    "name": "localstorage",
+    "connector": "loopback-component-storage",
+    "provider": "filesystem",
+    "root": "./server/storage"
+  },
+  "firestore": {
+    "name": "firestore",
+    "connector": "loopback-connector-firestore",
+    "projectId": "babyshowerdev-25bf9",
+    "clientEmail":  "firebase-adminsdk-96pv2@babyshowerdev-25bf9.iam.gserviceaccount.com",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD06LGcZumFXKGh\nbwW3uI7+TfRu1h38P/7QcKly3nL0VBCJ+U7B0HxtTT84O12g+MsxiswXakQB15iX\nvZovN/c5Bx0xoou1gYoshPccrnZg7r9uNpE0bvtUWt3TdPZCCOOMea+gSJIzeJgq\n6Dea2hRTlUTfnkJEwsnKPhHJaxuQbzOdXrHTiAXijG8Z29VDV/kGQijTvK9ywm+k\nR1hqs8lrXS+3txRjDPQnqKgQhW5jXRGqaUE3qYdrdlBAZQWsEKBMTn+N5MTUIWQR\nIUNYD+b4v/Ktzl5Uoo2L1GBt1KmmSJ+ur/qD6sAGNBIV80mAN1nLpfjj94pXgRn0\nzicn5FzvAgMBAAECggEAAQdab76m+T40TGmNZFbbfIdoFPBYyyrgZ71+KjvGkQ3e\nelkh40YDOmG2ZnjWclgK66Vk4+G/iYRV7XDPl61Rb9aMgENYg2aSC6yAxE3tMRJr\nxKVNFgD1m7UdTRHaxStmodQ43HUvavKbLT1y7c3RN11dmCRT8Y3cnBMR4wCwwRJZ\nYDCmp9bIXuhhBOnkRnNZjtFCX+pX4d5+Guj77zXG/8fGteR405gQTPEqN3zYtpQt\nfK/5pVGaCWPQfIOCOWUOdNgITnFOJ0dkGFgRW1h0WfRiy/4/rUZZhoxWoDYpNuUR\n8NDJNV7Z1OiIwzjneiOSg+ccf8Vb5ft0ONFE9Pn+tQKBgQD9Sik+5SGqoFsQDmcj\nGd5HVXF+HH+8y2PiB8TWleHhA+Lk+tedpm5fgNdYpTFAaqexOWo6t/7YMa507mr3\nwF3gblJYncVNSo/uSBUOnLd/YnM4rXpzcGz666gNBD5eBihK+/Bls6yo4NV+bh7N\nmPSricROiXWY2kcGOO1BYgg+uwKBgQD3h5NEGpEj40GwLk+v0ggk+XvGXST7gSGt\nkkxDJJ+yc3/eF0xAs18torPhuCEIt6Aj6BCZJRFwqboMM66++jQM4bcSBlZ7wcnw\nlYKc52eD8nVMINvYoo9viIkiQS6GKREjwYrdsa//RD7MrzCdarOqFUojIVjeO8pH\n3DifhYMJXQKBgBZ2YToGr/mlxu2hmVvvi1rgJPR+KoXfs7fz4Gz3VdTSt2h/JmgA\nvoERuAdQfxGrY7u/z7/tWVhq74HHMw1NrgWdQwhA1aKJHkKPee6Vz2Aopvc7y0Q5\nkDCgfYLKAY3tFd2wgh1C1ekUJ1rTAUBSdEBSM2qTni40DWBr4/6MZxbJAoGBAKx7\nUVf8dzSdr/E3ZBms7jXtjp073IBQjAopznBe/dTYfLpiW6UeGG1xWY0oxAQSCEnc\n9Gvyk4OBEX5dKSA0sr5jLjEmL29PKws0822oJc6gzbF9mBQNuotKhdxTtTqRNTtI\nKx6uKWhjwqrYTLT0XDthWGbAXu+ElECcqOwnmZaVAoGBAN6xkszPaX+m2tSebDvZ\nPejG5ATurVSEXsFmy56B3xFQJMjlhFHOjeSNKKjfZbKnvgCGge2PvYxoz6fTCCWU\n9uC+baxwKiRAnh5xF9Ls9EP9XA+4hFFMKV7D5W4wvw2n49ZxE960XSDWAgSDbakI\nVPyGMZFfcEsnCcqMzjJcC2+g\n-----END PRIVATE KEY-----\n",
+    "databaseName": "babyshowerdev-25bf9" 
+  }
+}
