@@ -1,16 +1,3 @@
 {
-  "localstorage": {
-    "name": "localstorage",
-    "connector": "loopback-component-storage",
-    "provider": "filesystem",
-    "root": "./server/storage"
-  },
-  "firestore": {
-    "name": "firestore",
-    "connector": "loopback-connector-firestore",
-    "projectId": "babyshowergifts-2cfec",
-    "clientEmail":  "firebase-adminsdk-mz1ty@babyshowergifts-2cfec.iam.gserviceaccount.com",
-    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDNslFRzVKP2Mku\nEuNTpeqAHiXzz7Ql7gbBN/PaukMo0En7S9ZeEvHm+K5tkWGXRpI6qgOlwQoXsFzL\npDpv7jCudyC8idQP17goyprCL0ic5pJ7J+eqhy7gDJBNc2CvGvUV2hRt65Dnn6aH\nB4USHOMNSnyjttsr0xynYgGsLr7R7ZgTgA40vc7Vn+VK5v2eldiuVhfM7SKVMRJx\nnw324B3UaL7xzl9P5GG1p8evluJNUFru9hq9mfq9ToS7apJN7ScLC/53EnNk0KAi\n+F2kUA5JnIxlnyYtDJt80DnRs9c2gcT5AM3HlsgNSwROemPEf50XZsnyLEnxEB3l\nV5cHtqhzAgMBAAECggEAJ16TWOxK+pQ8ATEFSIvPg8EBc5ZT/RR/P3kVl84hr4ya\nNFpSB8Rpf1Mmk3sJajpMH6VNuGpno5wSTrm6o5S7xZCwd9WLfJLFwSzyDOue4sTw\n0ViUaxufmatd7S0BmtI2iX2pflZhcCuq5FpImmxj+rXAgFctwMgRymmkN0/lHuma\nK6YwiUbgIpij3v1GnwFCjMNhCNuhvbz/aPJAiieQagM3Q0PTdbLxpX/8nUAxlSMm\nLyH9MqZkXSiRbqU+k0YWg9H9fEPUelSp7g5W7TXTAuFlKTSD1AfUQv3Dth1qEZuv\nwTYMx9hM19+Lrt/Oh+ip/VGYANh6MwtJldDjzX1FfQKBgQD2RSG4suwWia8sSkji\nNh9ihCf3/01XLhgzF6msXRoehsp8WWv1DOVvEQN3J4ETuxjW4FrKyuQ5wGuN09Bf\nUbpANoY57SFSvForJmPkjX2E8y1P/73zFfzHtnfniUpdYg844LmIw1CC74WaYS36\n++KYTEk6jz3+tUVQR7+B1/89DwKBgQDV0s9v0KFaONeUWGInR8Ud3WcugMfv3bL1\nDBrsgY5ZziQd84oQrQ2YK9k+MHP0+V6KnN/HFSiTEQ1SSq8vbwGWc4ddFJ1NjfVy\nTv8CGpKR+gZKyMSODU2ZaKWYixCu0kIrqh1ewSsKYsvsT7NYCzwG8mlH8jEpuLnc\ncMwAMr7mXQKBgQDpct0lhc6RCtGYbY6riVy0+cwdpdD93H8qJ7s63kK9P09BE09o\nS2JOp9UeJb+RIaHJR4IpjK1OJZ6PIoP7Z7Dj4Avba3NUR6I+FzVIWevrlM2WcTrx\n7RzjgJAnVxi8bxE4/KZEA8oVZNLEZmy85/uEHYSpU1IUWmerU2gxwLx+dwKBgFsJ\nkXY67qfaMbcgVlIBFaTcgjTjcbznuGzqxX/SvUfxI6F48lydQX97k9gNiyFPFviP\nSBucH5VWGkTiNWpNqfBjqctwnnTJryoHBj3gEG2EdS9cAYu1kEdzraWf9+9m5/Nt\nT2nrdqbKX6ZyXJps1hbjGP4f2Ny5oLCBeenPsUWlAoGAYuU0Z1n19MSCldCGbLF/\ntTv0XVujF+z/u569nPQTe5Ec10LvEXkySqdkSQW1qEoFzoeSQzbKZNWuGiEMsHa0\nhEXKo9nDyBiU8ETmtJWET2O+44X15Gvcl1RW7OY2HOYoLKED6mBj4J7VFSBb7Eam\n72e8qOfAxl1/eiViT+CZC9c=\n-----END PRIVATE KEY-----\n",
-    "databaseName": "babyshowergifts-2cfec" 
-  }
+
 }

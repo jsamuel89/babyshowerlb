@@ -6,7 +6,7 @@ var conf = {
   hostname: 'localhost',
   port: process.env.PORT || 3000,
   restApiRoot: '/api', // The path where to mount the REST API app
-  legacyExplorer: true
+  legacyExplorer: true,
 };
 
 // The URL where the browser client can access the REST API is available.
@@ -17,7 +17,7 @@ conf.restApiUrl = url.format({
   slashes: true,
   hostname: conf.hostname,
   port: conf.port,
-  pathname: conf.restApiRoot
+  pathname: conf.restApiRoot,
 });
 
 module.exports = conf;
