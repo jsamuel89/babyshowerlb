@@ -6,6 +6,18 @@ var app = module.exports = loopback();
 
 app.start = function() {
   // start the web server
+
+  var port = process.env.PORT || 3000;
+
+  // app.use(loopback.static(path.resolve(__dirname, '../client')));
+  // app.use(loopback.static(path.resolve(__dirname, '../.tmp')));
+
+  return app.listen(port, function() {
+    app.emit('started');
+    console.log('Web server listening at: %s', app.get('url'));
+  });
+
+/*
   return app.listen(function() {
     app.emit('started');
     var baseUrl = app.get('url').replace(/\/$/, '');
@@ -16,6 +28,7 @@ app.start = function() {
     }
   });
 };
+*/
 
 // Bootstrap the application, configure models, datasources and middleware.
 // Sub-apps like REST API are mounted via boot scripts.
