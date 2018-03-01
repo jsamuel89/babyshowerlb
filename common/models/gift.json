@@ -22,8 +22,11 @@
     "status": {
       "type": "string"
     },
-    "blockedby": {
-      "type": "string"
+    "maxcount": {
+      "type": "number"
+    },
+    "currentcount": {
+      "type": "number"
     },
     "blockedbycontact": {
       "type": "string"
